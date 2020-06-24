@@ -68,7 +68,7 @@ layer.msg('登录成功')
  // 跳转到后台主页
  location.href = '/index.html'
 
-}
+}                                     
 
 })
 
